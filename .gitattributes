@@ -1,3 +1,2 @@
 *.py linguist-language=Python
 *.m linguist-language=MATLAB
-*.ipynb linguist-language=Jupyter Notebook
