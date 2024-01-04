@@ -14,8 +14,8 @@ This is my personal implementation for [ELEC70095](http://www.ee.ic.ac.uk/msc_cs
 
 My implemented labs list below:
 
-+ Lab1: [CL1](http://www.ee.ic.ac.uk/msc_csp/CourseLiterature/CL experiment.pdf) [Multi-input Multi-output Communication](http://www.ee.ic.ac.uk/msc_csp/CourseLiterature/CL experiment.pdf)
-+ Lab2: [CL2](http://www.ee.ic.ac.uk/msc_csp/CourseLiterature/CL2 Experiment.pdf) [Text-to-Image Generation Using AI](http://www.ee.ic.ac.uk/msc_csp/CourseLiterature/CL2 Experiment.pdf)
-+ Lab3: [BC](http://www.ee.ic.ac.uk/msc_csp/CourseLiterature/BC_Overview.pdf) [Simultaneous transmission of information and power](http://www.ee.ic.ac.uk/msc_csp/CourseLiterature/SWIPT_Exp.pdf)
-+ Lab4: [AM](http://www.ee.ic.ac.uk/msc_csp/CourseLiterature/am1.pdf) [Array Communications & Processing](http://www.ee.ic.ac.uk/msc_csp/CourseLiterature/am1.pdf)
-+ Lab5: [TS](http://www.ee.ic.ac.uk/msc_csp/CourseLiterature/TS Experiment.pdf) [Image Processing](http://www.ee.ic.ac.uk/msc_csp/CourseLiterature/TS Experiment.pdf)
++ Lab1: [CL1 Multi-input Multi-output Communication](http://www.ee.ic.ac.uk/msc_csp/CourseLiterature/CL experiment.pdf)
++ Lab2: [CL2 Text-to-Image Generation Using AI](http://www.ee.ic.ac.uk/msc_csp/CourseLiterature/CL2 Experiment.pdf)
++ Lab3: [BC Simultaneous transmission of information and power](http://www.ee.ic.ac.uk/msc_csp/CourseLiterature/SWIPT_Exp.pdf)
++ Lab4: [AM Array Communications & Processing](http://www.ee.ic.ac.uk/msc_csp/CourseLiterature/am1.pdf)
++ Lab5: [TS Image Processing](http://www.ee.ic.ac.uk/msc_csp/CourseLiterature/TS Experiment.pdf)
