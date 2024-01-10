@@ -9,12 +9,16 @@ function plot2D3D(Z,AZarea,ELarea,Zcapture,plottitle);
 
 if nargin<4, plottitle=' '; Zcapture=' ';end;
 figure(1);
+
 if length(ELarea)==1 | length(AZarea)==1 
  if length(ELarea)==1 
     [maxZ,x]=max(Z); Bestdirection=AZarea(x)
-    plot(AZarea,Z),title(plottitle),
+    %7
+    plot(AZarea,Z,'LineWidth', 2),title(plottitle),
                xlabel('Azimuth Angle - degrees'),
                ylabel(Zcapture),grid
+               %60
+               set(gca, 'FontSize', 14); % Set global font size
                
  else
    

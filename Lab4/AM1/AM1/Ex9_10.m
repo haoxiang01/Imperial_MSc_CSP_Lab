@@ -29,7 +29,7 @@ M = 3;
 %% MUSIC algorithm
 % Theoritical
 Z = music(array, Rxx_theoretical, M);
-plot2d3d(Z,[0:180],0,'gain in dB',['Theoritical MuSIC spectrum, SNR=' num2str(SNR_dB) 'dB']);
+plot2d3d(Z,[0:180],0,'gain in dB',['Uncorrelated Theoritical MuSIC spectrum, SNR=' num2str(SNR_dB) 'dB']);
 
 % audio signal
 Z = music(array, Rxx_au, M);

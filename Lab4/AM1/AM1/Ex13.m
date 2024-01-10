@@ -1,3 +1,7 @@
+clc
+clear
+close
+
 array=[-2 0 0; -1 0 0; 0 0 0; 1 0 0; 2 0 0];
 directions = [30, 0; 35, 0 ; 90, 0];
 
@@ -8,7 +12,7 @@ M = size(directions,1);
 m = (randn(M,L) + 1i*randn(M,L)) / sqrt(2);
 
 % random noise
-sigma2 = 0.1;
+sigma2 = 0.0001;
 noise = sqrt(sigma2) * (randn(N,L) + 1i*randn(N,L)) / sqrt(2);
 S = spv(array,directions);
 

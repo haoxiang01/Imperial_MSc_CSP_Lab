@@ -28,6 +28,7 @@ M = 3;
 
 %% MUSIC algorithm
 % Theoritical
+set(gca, 'FontSize', 14); % Set global font siz
 Z = music(array, Rxx_theoretical, M);
 plot2d3d(Z,[0:180],0,'gain in dB',['Coherent Theoritical MuSIC spectrum, SNR=' num2str(SNR_dB) 'dB']);
 
