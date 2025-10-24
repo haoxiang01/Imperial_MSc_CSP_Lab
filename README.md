@@ -2,8 +2,6 @@
 
 This is a repository to store my implementation for [ELEC70095](http://www.ee.ic.ac.uk/msc_csp/Welcome.html) MSc CSP Lab at Imperial College London.
 
-+ Author: Haoxiang Huang, MSc CSP, Imperial.
-
 ## Environment
 
 This project is built in Windows 11, MATLAB [R2021b](https://uk.mathworks.com/products/new_products/release2021b.html), and Jupyter Notebook.
